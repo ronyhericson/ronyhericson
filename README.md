@@ -28,8 +28,6 @@ Com mais de 15 anos de experiência em desenvolvimento de software, sou apaixona
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronyhericson&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 #
-
-  ##
  
 <div> 
   <a href = "mailto:ronyhericson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -17,11 +17,18 @@ Com mais de 15 anos de experiência em desenvolvimento de software, sou apaixona
 
 #
 
-<div style="display: flex; margin: 16px 0; gap: 16px;">
-  <img alt="RonyHericson-AzureDevOps" height="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png">   
+<div style="display: flex; margin: 16px 0; gap: 16px;">    
   <img alt="RonyHericson-SQL" height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg">
   <img alt="RonyHericson-MySQL" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
   <img alt="RonyHericson-PostgreSQL" height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+</div>
+
+#
+
+<div style="display: flex; margin: 16px 0; gap: 16px;">
+  <img alt="RonyHericson-AzureDevOps" height="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png"> 
+  <img alt="RonyHericson-Git" height="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg">
+  <img alt="RonyHericson-Bucket" height="40" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg">       
 </div>
 
 #

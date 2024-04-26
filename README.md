@@ -12,7 +12,8 @@ Com mais de 15 anos de experiência em desenvolvimento de software, sou apaixona
   <img alt="RonyHericson-JS" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img alt="RonyHericson-TS" height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img alt="RonyHericson-AngularJS" height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
-  <img alt="RonyHericson-ReactJS" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">          
+  <img alt="RonyHericson-ReactJS" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img alt="RonyHericson-Python" height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
 </div>
 
 #
